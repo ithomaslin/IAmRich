@@ -11,6 +11,7 @@
 
 # Built application files
 */*/build/
+app/release/app-release.apk
 .apk
 
 # Crashlytics configuations
