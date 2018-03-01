@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">I Am Rich</string>
+    <string name="FACEBOOK_APP_ID">186139065483692</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">d0a81802b1917f94a991566b3d6d011a</string>
+    <string name="ak_login_protocol_scheme">ak186139065483692</string>
+    <string name="fb_login_protocol_scheme">fb186139065483692</string>
+    <string name="login_label">Email or Phone Number</string>
+    <string name="accountkit_button_label">Continue</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="location_label">Location</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="logout_label">Log Out</string>
+    <string name="search_label">Where are you headed?</string>
+    <string name="visited_today">visited today</string>
+    <string name="friends">Find Friends</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="no_friends">No friends found</string>
+    <string name="location_permission_message">
+        I Am Rich would like access to your user location.
+    </string>
+    <string name="permission_message">
+        I Am Rich requires permission to access your Facebook friend list
+    </string>
+    <string name="surface_string_1">Hello!</string>
+    <string name="surface_string_2">Congratulations! </string>
+    <string name="surface_string_3">You just purchased</string>
+    <string name="surface_string_4"> the most </string>
+    <string name="surface_string_5">expensive app </string>
+    <string name="surface_string_6">on Google Play!</string>
+    <string name="surface_string_7">Enjoy!</string>
+    <string name="surface_string_8">And share it on</string>
+    <string name="surface_string_9"> your social media!</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="button_purchase">Purchase</string>
+    <string name="button_buy">Buy</string>
+
+
+
+
+
+
+
+
+
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_acruire_fragment">AcruireFragment</string>
+    <string name="action_settings">Settings</string>
+</resources>
